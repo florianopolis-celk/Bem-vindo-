@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pusprimordial
-- 👀 I’m interested in game development with javascript and OpenGl.
+- 👀 I’m interested in game development with javascript and WebGl.
 - 🌱 I’m currently learning NodeJS and React.
 - 💞️ I’m looking to collaborate on game projects and open source in general.
 - 📫 How to reach me: casadoeinstein@gmail.com
