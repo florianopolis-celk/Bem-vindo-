@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @pusprimordial
-- 👀 I’m interested in game development with C++.
-- 🌱 I’m currently learning NodeJS and React.
-- 💞️ I’m looking to collaborate on game projects with Javascript.
+- 👋 Hi, I’m @pelucasdev
+- 👀 I’m interested in Analytics Engineering.
+- 🌱 I’m currently learning Backend development with Rust.
+- 💞️ I’m looking to collaborate on open source projects.
 - 📫 How to reach me: casadoeinstein@gmail.com
 
 <!---
